@@ -1,5 +1,5 @@
 
-[!MasterHead](https://cdni.iconscout.com/illustration/premium/thumb/coding-project-1884980-1597918.png)(https://nisargahgowda.io)
+[!MasterHead](https://cdni.iconscout.com/illustration/premium/thumb/coding-project-1884980-1597918.png)
 <h1 align="center">Hi 👋, I'm Nisarga Gowda</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
